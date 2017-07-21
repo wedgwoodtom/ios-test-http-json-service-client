@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+public class Score {
+    public var id: String
+    public var score: Int
+    
+    public init(id: String, score: Int) {
+        self.id = id
+        self.score = score
+    }
+}

@@ -1,0 +1,6 @@
+framework module Pods_TestAccessScoreServiceTests {
+  umbrella header "Pods-TestAccessScoreServiceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
